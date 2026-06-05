@@ -51,5 +51,3 @@ It covers **Test Planning, Test Case Design, Test Execution, Bug Reporting, and 
 
 ---
 
-💼 LinkedIn: [Your LinkedIn]  
-🐙 GitHub: [Your GitHub]
